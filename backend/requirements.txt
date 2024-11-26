@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+requests
+geopy
+twilio
+pytest
